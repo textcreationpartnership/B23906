@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement of the virtues and use of sundry select and experimented medicines such whose beneficence is well known to the most eminent physitians / faithfully prepared and sold by Tho. Hammond ...</title>
+            <author>Hammond, Thomas, 17th cent.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23906</idno><idno type="EEBO-CITATION">15735838</idno>
+  <idno type="VID">206203</idno>
+  <idno type="EEBO-PROQUEST">2240861383</idno>
+  
+            <idno type="STC">Wing H624</idno>
+            <idno type="OCLC">15735838</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement of the virtues and use of sundry select and experimented medicines such whose beneficence is well known to the most eminent physitians / faithfully prepared and sold by Tho. Hammond ...</title>
+                  <author>Hammond, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Patent medicines --  England.</term>
+               <term type="topical_term">Drugs, Nonprescription --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="medical_treatise">
+            <pb n="1" facs="tcp:206203:1"/>
+            <p>AN Advertisement OF THE VIRTUES and USE Of sundry Select and Experimented MEDICINES SUCH Whose Beneficence is well known to the most Emi<g ref="char:EOLhyphen"/>nent Physitians: faithfully prepared and sold by <hi>THO. HAMMOND,</hi> at his House, the sign of the <hi>Blew Ball</hi> in <hi>Ave-Mary-Lane,</hi> Lead<g ref="char:EOLhyphen"/>ing from <hi>Lud Gase Street,</hi> to <hi>Pater Noster-Row.</hi> Who has been Practically conversant, as well as Studient in Chymical Pharmacy (with submission to his other Avocations) above Ten Years last past. <hi>VIZ.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I. The QUEEN <hi>of</hi> HUNGARY<hi>'s</hi> WATER, <hi>Rightly Prepared; as it has been many Years experienced and continues approv<g ref="char:EOLhyphen"/>ed by the Nobility and Gentry of</hi> Eng<g ref="char:EOLhyphen"/>land.</head>
+               <p>COncerning its Virtues I shall transcribe Her own Recommendations, <hi>viz.</hi> Anno 1511. in the City of <hi>Buda</hi> this Receipt was found in a <hi>Breviary</hi> that belonged to <hi>Elizabeth</hi> Queen of <hi>Hungary;</hi> on the back<g ref="char:EOLhyphen"/>side
+<pb n="2" facs="tcp:206203:2"/>whereof [being Translated] this was written, <hi>viz. Of this Water of Life I</hi> Elizabeth <hi>Queen of</hi> Hungary, <hi>and Aged</hi> 27 <hi>years, very weak,</hi> Palsical <hi>and</hi> Gouty, <hi>did use this Receipt for one year, which an old Hermit gave me, whom I never saw before nor after; and I was thereby wonderfully cured, and restored to my former Strength and Beauty, appear<g ref="char:EOLhyphen"/>ing to every body very Beautiful. insomuch that the King of</hi> Poland <hi>desired to Marry me, (I being a Widow) which I re<g ref="char:EOLhyphen"/>fused to doe for my Saviour Christs-sake, of whose Angel I be<g ref="char:EOLhyphen"/>lieve I received this Medicine.</hi>
+               </p>
+               <p>A noble Commendation! And indeed <hi>Rosemary flowers,</hi> (of which this <hi>Balsamick</hi> Liquor is compounded) are full of Volatile Salt and Sulphur, two of the principal Agents of Nature; but more especially when their Virtue is ani<g ref="char:EOLhyphen"/>mated by the subtilty of the Spirit of Wine, which doth in a moment penetrate from the Center of the Stomach to the Circumference of the Body, and doth inspire Vi<g ref="char:EOLhyphen"/>gour into all the Functions of our Life.</p>
+               <p>'Tis found by Experience to be an admirable Restorer of decayed Memory, by bathing the Temples; and by pouring a little into the Palm of the Hand, snuffing up the Nostrils the scent thereof very strongly, and doing it Morn<g ref="char:EOLhyphen"/>ing and Evening; and at the same time take half a Spoon<g ref="char:EOLhyphen"/>ful in a Glass of Beer or Ale, or in a Sack-glass full of fair Water sweetened with fine Sugar.</p>
+               <p>
+                  <note n="*" place="margin">It may be made stronger tasted or weaker by ad<g ref="char:EOLhyphen"/>ding more or less of the Li<g ref="char:EOLhyphen"/>quor you take it in, accor<g ref="char:EOLhyphen"/>ding to every ones pallet.</note> It also remedies Giddiness and other disaffects of the Brain; and wonderfully strengthens the Sight by touch<g ref="char:EOLhyphen"/>ing the Eye lids with it Morning and Evening, and at the same time bathe the Temples and the Nape of the Neck.</p>
+               <p>It corrects and amends an ill savouring Breath; and strengthens the Stomach, amending any imperfections thereof; as want of Appetite, bad Digestion, <hi>&amp;c.</hi> vanquish<g ref="char:EOLhyphen"/>ing windy and unwholesome Vapours which annoy the Head and Heart, by taking half a Spoonful mixt as afore<g ref="char:EOLhyphen"/>said last at Night, and first in the Morning, and at any other time when the Stomach is out of order.</p>
+               <pb n="3" facs="tcp:206203:2"/>
+               <p>
+                  <note n="*" place="margin">Excellent for the Gripes.</note> It speedily cures the Gripes by taking two spoonfuls in a pint of Ale (made very warm before you put the Spirit in<g ref="char:EOLhyphen"/>to it) and drink it off, and walk much upon it; but if they be very violent, 'twill be best to go to Bed upon it, and try to sleep, and when you awake drink a draught of Mace-Ale hot, and if there be occasion repeat the same quantity of Spirit again.</p>
+               <p>'Tis a powerful Antidote against the <hi>Pestilence,</hi> or any other Contagious Distempers, by taking a Spoonful every Morning and Evening mixed with such a quantity of fair Water and Sugar as is before directed.</p>
+               <p>
+                  <note n="*" place="margin">Admirable for the Teeth and Gums.</note> AND is one of the best Experimented Medicines yet known, to kill and vanquish the foul corroding humour in the Gums, which causeth rotten and loose Teeth, and wasting in the Gums; by mixing three or four spoonfuls with thrice the quantity of fair Water; which <hi>Balsamick Mixture</hi> you may keep in a Vial close stop'd; And every Morning when you arise, gargle your Mouth with a little, and having so done, pour some into a Spoon, and dip either your Finger or a fine linnen-rag therein and rub well your Gums therewith; and do the like at Bed time: It preserves the Teeth and Gums firm to old Age, and puts a stop to those already wasting. The constant use thereof not onely preserves the Teeth, but also pre<g ref="char:EOLhyphen"/>vents the Tooth-ach by dispersing the Cause.</p>
+               <p>'Tis an excellent Remedy for a Cough or Cold, by taking two Spoonfuls at Bed-time in a Glass of warm Ale with a spoonful of Fine Sugar dissolved therein; and in the Morning bathe well the Temples and Nostrils.</p>
+               <p>It hath also excellent Effects by bathing outwardly any part Afflicted with pain or strain'd bruised or benummed.</p>
+               <p>'Tis admirable in vanquishing the pains of the Gout, by bathing Morning and Evening before the Fire with a warm hand, and oftner if the pain be violent; in which <hi>Malady</hi> it has many times been experienced to the comfort of divers persons of Honour, and others; as also
+<pb n="4" facs="tcp:206203:3"/>of the shaking <hi>Palsie,</hi> by bathing the part often, and taking half a spoonful inwardly, mix'd as aforesaid Night and Morning; and indeed it should always be taken in<g ref="char:EOLhyphen"/>wardly, when you have any pains or stubborn <hi>Malady,</hi> for which you use it outwardly; and let no man fear the vulgar Bug-bear; that being a
+<note n="*" place="margin">A pure vola<g ref="char:EOLhyphen"/>til spirit from wine wholly di<g ref="char:EOLhyphen"/>vested of flegm and wholsomly diluted (as is directed) is more benefici<g ref="char:EOLhyphen"/>al to the vitals than those so<g ref="char:EOLhyphen"/>phisticated, mungrel, Brandy-like, Dulcified Spirits; which harbour a foul stinking flegm injurious to Nature.</note> subtile spirit it shall be too hot; for being so qualified by mixing with water as is directed, it becomes an excellent well tempered Cordial, amicable to the Vital Spirits, and agreeable with the Balsam of Life: Nay, it is so Balsamick, as that it will speedily and safely heal a wound, by dropping some few drops thereon, and dipping a Bolster therein, and bind it on, as has been frequently proved: And takes away the smart of a burn or scald immediately, and fetcheth out the Fire; not breaking the skin, presently applying a lin<g ref="char:EOLhyphen"/>nen rag dipt therein; and bathing the part therewith, and often dipping the rag afresh during the first hour.</p>
+               <p>It strengthens Weak and Ricketty Limbs, and molli<g ref="char:EOLhyphen"/>fieth and taketh down great and hard Bellies in Children, by bathing therewith before the Fire with a warm hand Morning and Evening; whereby it hath restored many to strength and vigour, even to admiration.</p>
+               <p>
+                  <note n="‡" place="margin">Excellent to Beautify the Skin.</note> LADIES may mix a spoonful in four spoonfuls of Bean-flower-water, or fair water, (it will become slippery, and as white as Milk) and wash their Face; it's admirable to clear and beautifie the Skin. And the said mixture being of a suppling, unctious quality, it continues the Face in a youthful complection, and removes Scurf or Morphew, and takes away Pimples by washing frequent<g ref="char:EOLhyphen"/>ly with it, and comforts the Eyes by gently touching over the Eye-lids. It is put up and Sealed in strong Glasses of different Price, according to the quantity contain'd <hi>viz.</hi> 12d. 18d. or <hi>Half a Crown.</hi>
+               </p>
+               <p>NOTE, <hi>that the Author Dissolves therein a quantity of
+<pb n="5" facs="tcp:206203:3"/>the Essential Salt of Rosemary, whereby it is superior in Virtue to that commonly sold about the Town; and the Spirit is also stronger, as may be proved by touching a spoonful with a light<g ref="char:EOLhyphen"/>ed Paper, it will burn all away; and moreover being loaded with the Essential, volatil Salt, it turns Beer, Ale, Wine, or fair Water into a milky-colour. Both which Symptoms you shall not find in that vulgarly Prepared.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. The ENGLISH <hi>ORVIETAN;</hi> OR, The Curious Purging Antidote.</head>
+               <p>THIS most benign Medicine, delicate to the smell and taste comforts the Heart, Stomach, and Brain, and revives all the Spirits.</p>
+               <p>It safely and plentifully evacuates all noxious humours by stools and by Urine, and also by insensible Transpira<g ref="char:EOLhyphen"/>tion, whereby it is a most effectual Medicine to temperate, cleanse and sweeten the Blood, radically overcoming dis<g ref="char:EOLhyphen"/>eases thence arising, being compounded of the Essential, Volatil parts of divers powerful Salutiferous Vegetables.</p>
+               <p>It roots out Melancholly, and resolves Convulsions, and Congelations of the Blood, and wonderfully relieves in the Phtisick.</p>
+               <p>It expels wind, and keeps the body soluble, and re<g ref="char:EOLhyphen"/>stores a lost Appetite.</p>
+               <p>It imme diately rectifies the disorders of the Stomach and Head, arising from hard drinking, thereby, prevent<g ref="char:EOLhyphen"/>ing Surfeits and Feavers, by carrying off the occasional matter.</p>
+               <p>In short; it is an excellent Antidote against any Distem<g ref="char:EOLhyphen"/>perature of the body, as it has been many years experien<g ref="char:EOLhyphen"/>ced
+<pb n="6" facs="tcp:206203:4"/>by sundry Eminent Persons, who frequently use it with good success upon any disorder or ilness.</p>
+               <p>It is so delectable to the Taste, and pleasant to the Smell, that the most nice Pallat may take it with pleasure; and it is an admirable Purge for Children against Worms, and other disorders. <hi>Price</hi> 12d. <hi>each Pacquet, containing two <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mall Pots; the little quantity in each Pot being a sufficient Dose for a Man or Woman; and a quarter part for a Child from three Years to five, and prop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtionably more or less, ac<g ref="char:EOLhyphen"/>cording to the age and strength.</hi>
+               </p>
+               <p>It is to be taken in the Morning sasting, and abstain eating till Noon; but if you desire, you may drink a dish or two of good Tea, or a Glass of Canary-wine; and walk about your occasions.</p>
+               <p>It is excellent against swooning Fits and suffocation of the Womb. It fortifies the Heart against Poysonous Attoms.</p>
+               <p>It may be taken at any time of the year with the same success and salety, save only in severe cold weather it will be needful to keep house till after Dinner.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>The ROYAL WATER and PILLS against the</hi> SCURVY, <hi>and all Impuri<g ref="char:EOLhyphen"/>ties in the</hi> BLOOD.</head>
+               <p>THE <hi>Royal Water</hi> is admirable to rectifie the Mass of Blood, and to temperate the Liver and Spleen; it gives a good Appetite, and proctires a perfect Digestion by establishing the Functions of the Stomach; it operates by Urine, and by Transpiration, sensible and insensible; and is an admirable specifick against the <hi>Scurvy;</hi> which together with the Pills being med for some time, extir<g ref="char:EOLhyphen"/>pates the most inveterate <hi>Scurvy.</hi> It admirably expels
+<pb n="7" facs="tcp:206203:4"/>Wind from the Stomach and Bowels, and amends the disorders of the Spleen. It is to be taken in the Morning Fasting either by it self, or in a glass of Beer, Ale, or White-Wine. A Man or Woman may take six Spoonfuls, a Youth or Girl three Spoonfuls, and Fast three hours after. Do the same at five in the Afternoon, [<hi>Price</hi> two shillings <hi>per Quart.</hi>]</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Pills experienced against the Scurvy.</hi>
+               </head>
+               <p>THEY admirably cleanse the Stomach without an<g ref="char:EOLhyphen"/>noying the tone thereof, or disturbing the digestion, and do gently draw away impurites from the Liver and the Blood, and remove Obstructions from the Lungs; a<g ref="char:EOLhyphen"/>mending the Irregularities of the Spleen: And have been experienced by some hundreds of Persons (since I first published them, which is now about Nine Years) to be a prevalent Medicine against the Scurvy, altho of many Years standing; with all its troublesome effects, as pains in the Head, Shoulders, Arms, Back, Legs and Bones, with spots and breakings out in the Skin; Weakness in the Joynts, Illness of the Stomach, and Faintness over the whole body.</p>
+               <p>They are to be swallowed at Bed-Time, [to eat no sup<g ref="char:EOLhyphen"/>per is best] either alone, or in the Pap of an Apple, or what else you fancy; and next morning drink a small draught of warm Ale, or a dish of Tea (or if the Scurvy be very inveterate, put into your mornings draught [of warm Ale in the Winter, or fair Water sweetened with Loaf-Sugar in the Summer-time] six Spoonfuls of the Royal Water, mentioned under Number Three aforegoing)</p>
+               <p>They Purge gently (rather strengthening the Body) and therefore may be taken every other, or every third Night, a Fortnight or a Month together, and have been
+<pb n="8" facs="tcp:206203:5"/>found very beneficial to be taken by such Persons who drink the Waters in the Summer Season assisting the Sto<g ref="char:EOLhyphen"/>mach to make a full discharge of any crudities, <hi>&amp;c.</hi> [<hi>Price</hi> 12 <hi>d.</hi> each Pacquet containing three Boxes, each Box containing three very small Pills, being a sufficient Dose for once taking, to a Man or Woman; one Pill is sufficient for a Youth or Girl from four to seaven; and from seaven to fourteen Years of Age, two Pills; and from fourteen to twenty one Years and upwards, all three may safely be taken.]</p>
+               <p>They are excellent to destroy Worms in Children, and also the Green Sickness in Maidens; by taking them as is directed.</p>
+               <p>
+                  <hi>NOTE, That gentle Purging is most friendly to Nature, and on the contrary, quick, Robust Purges stamp an ill Chara<g ref="char:EOLhyphen"/>cter on the Vitals.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V. ELIXIR PROPRIETATIS, <hi>impregnated with the volatil</hi> SALT <hi>of</hi> HARTS<g ref="char:EOLhyphen"/>HORN.</head>
+               <p>WIthout boasting, This most excellent alterative, and restorative Medicine can scarcely be equalled a<g ref="char:EOLhyphen"/>gainst the Diseases of the Spleen, Irregularities and Me<g ref="char:EOLhyphen"/>teorisms of the Womb, and all manner of Disorders thence proceeding in the Female Sex. 'Tis excellent against Hy<g ref="char:EOLhyphen"/>pocondriac Disaffects in either Sex; it purifies the Blood, and opens Obstructions in the Head and Breast. It is most proper to be taken in a Glass of White wine, or fair wa<g ref="char:EOLhyphen"/>ter, 60 drops in a Morning fasting, to a man or woman, and fast till Noon, and the like quantity at Bed time, not having eat in two hours before. It destroys worms in Chil<g ref="char:EOLhyphen"/>dren, and carries off the depraved matter of which they are formed, by giving it Morning and Night mixed as is
+<pb n="9" facs="tcp:206203:5"/>before directed. The Dose from three to seaven, or twenty one drops, according to the age and strength of the Child. [<hi>Price</hi> two shillings <hi>the Ounce.</hi>]</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>The</hi> TINCTURE <hi>of the</hi> SALT <hi>of</hi> TAR<g ref="char:EOLhyphen"/>TAR [<hi>of a</hi> Rubicund Colour.]</head>
+               <p>THis Tincture and its eminent Effects, are so well known to the Learned to be as general a Remedy as the whole Art of Chymistry affords; performing all its excel<g ref="char:EOLhyphen"/>lent effects with a world of sweetness. It removes Ob<g ref="char:EOLhyphen"/>structions in the Head, Lungs, Stomach, Liver, Spleen, Reins, Bladder, Womb and Miseraick Veins;
+<note n="*" place="margin">Tis excellent against the Green-sickness in Maidens.</note> and puts the blood into a free circulation, and cleanses the whole mass. It dissolves the Stone, and brings it away in Gravel, and keeps the Body soluble. The dose is from 60 to 100 drops in good Canary, or spring-water. It may be taken in a morning early, and at night going to bed. [<hi>Price</hi> one shilling six pence <hi>per Ounce.</hi>]</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>The ponderous Acid</hi> OYL <hi>of</hi> VITRIOL, <hi>made Volatil and Sweet.</hi>
+               </head>
+               <p>WHich Volatility and Edulcoration is performed by Digestion, Circulation, and Reiterated
+<note n="*" place="margin">A Term in Chymistry sig<g ref="char:EOLhyphen"/>nifying to pour back the mat<g ref="char:EOLhyphen"/>ter and redi<g ref="char:EOLhyphen"/>still.</note> Cohobation with a proper Adjunct, whereby that which was before a furious Dragon) altho sullenly Tenacious of admirable Virtues) is by this means become an amicable Dove, freely communicating its qualifications, and wonderful power in Healing; performing all its excellent Effects with a friendly sweetness. It penetrates from the very center and bottom of the Stomach, and subtilly enters the Veins and Arteries, and accompanies the Blood in its Cir<g ref="char:EOLhyphen"/>culation; filling the whole circumference of the Body with a benevolent Sulphur, and a Volatil Alkalie, which destroys the Idea of most Distempers, and radically over<g ref="char:EOLhyphen"/>comes
+<pb n="10" facs="tcp:206203:6"/>their Venome: It Volatilizeth any fixt and stub<g ref="char:EOLhyphen"/>born Coagulation, and fixeth any Gas, or wild wandring Venomous Spirit lurking in the Blood, whereby Nature is enabled to bring under subjection, and cast forth by the general Sluces, whatsoever is offensive and hostile to Life and Health. These commendations exceed not the merits of this Medicine, as hath been sundry times rela<g ref="char:EOLhyphen"/>ted to me by many Physitians, who have with good suc<g ref="char:EOLhyphen"/>cess experienced its Effects against these, and many more Distempers not here mentioned: <hi>viz</hi> In Consumptions and Phtisick, it hath restored many Persons labouring un<g ref="char:EOLhyphen"/>der direful Symptoms, by taking a Spoonful at Bedtime, in a Grass of good Mead, and a quarter of a Spoonful an hour before you arise (so mixed) in the Morning, and continue its use as need requires. Also in <hi>Fevers</hi> of all sorts, by giving half a Spoonful last at Night, first i'th' Morning, and at Five Afternoon in a small draught of Sage water, and sometimes in Spring water sweetn'd a little with fine Sugar. As also in <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uision fits</hi> in Chil<g ref="char:EOLhyphen"/>dren, if it be an Infant Afflicted, Five Drops, repeated five times in a Day, in a little Syrup of Pioney, and let the Nurse drink in the Morning a Five in the Afternoon, and at bed time, half a Spoonful each time, in a draught of Ale. A Youth, or Girl, may take a quarter of a Spoonful. A Man, or Woman, half a Spoonful, Night and Morning for a considerable time, without intermission, in a glass of fair water and sugar. It hath been found a sure Medicine in such cases, and in all manner of weakness and disalfects of the Nerves; as also, against Uterine or by pocondriac Vapours, by taking it at Bed-time, mixed as aforesaid. It admirably cleanseth the Blood, correcting obliterating, and transpiring any Remains of Venereal Impurities; and being so taken is essectual against the <hi>Su<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vy.</hi> It gives Relief in the <hi>Chollick,</hi> and any other Pains, causing pleasant Rest and Sleep, by taking half a Spoonful at bed<g ref="char:EOLhyphen"/>time, in a Sack glass of fair water, sweetned with Sugar, and continue it some time <hi>[Price one shilling the Glass]</hi> being a quantity sufficient for many times taking.</p>
+            </div>
+            <div n="8" type="part">
+               <pb n="11" facs="tcp:206203:6"/>
+               <head>VIII. <hi>AN Experienced</hi> GARGLE, <hi>fine, transpa<g ref="char:EOLhyphen"/>rent, and clear, which takes off the flac<g ref="char:EOLhyphen"/>cidity, swelling, or soreness of the</hi> UVU<g ref="char:EOLhyphen"/>LA; <hi>and obliterates any Canker in the</hi> MOUTH.</head>
+               <p>THis Efficacious Medicine remedies any sore Throat, proceeding from cold taking or any other cause whatsoever, by taking a Mouthful, and gargling the Throat with it, and repeating it every half hour; and do the like for the Canker. It hath relieved many persons whose Throats have been Ulcerated, by Gargling and touching the <hi>Ulcer</hi> often with a fine linnen rag dipt in it There is no danger if you happen to swallow any of it, for 'tis safe and innocent. It gives sensible ease immediately. [<hi>Price Twelve pence</hi> the half Pint.]</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. DULLIDGE WATER <hi>Evaporated so as a Pint will Purge as much as</hi> 3 <hi>Quarts crude from the Well.</hi>
+               </head>
+               <p>BEeing an Excellent Medicine against oppression or foul<g ref="char:EOLhyphen"/>ness of the Stomach. It cools, temperates, and purifieth the Blood, dissolves and carries off tough Flegm, pro<g ref="char:EOLhyphen"/>cures an Appetite, and is Efficacious in all the Respects for which the Waters are drank, with this advantage, that by the smallness of the quantity the Stomach is free from surcharge; and it will keep fresh and good two or three Moneths together. [<hi>Price</hi> six pence <hi>per Pint.</hi>]</p>
+            </div>
+            <div n="10" type="part">
+               <head>X. <hi>An Excellent Water against Scabs, Pim<g ref="char:EOLhyphen"/>ples, the Itch, and other Breakings out.</hi>
+               </head>
+               <p>This Diaphanous Water takes away Pimples in the
+<pb n="12" facs="tcp:206203:7"/>Face or any other part in a few hours; not by striking them in, but by obliterating the venome of the humour, and thereby causing them to dye and wither upon the Spot; (as is very obvious to those who use it.) Dip a little bit of fine spunge, or a fine rag therein, and bathe and dap upon the Part, letting it dry in, and repeat it again several times, at last you will find a white volatil Salt upon the Skin which you may wipe off with your Spunge. It will in like manner cure and take away redness of the Face, tho of long continuance, by bathing as is directed Night and Morning; it is also a neat and cleanly, as well as a most infallible Medicine to cure the Itch, in Old or Young; by bathing the Parts with it Night and Morning and oftner, if you have opportunity; if the Itch be much, it will be most speedily effectual, if you take 20 drops inwardly in half a Pint of Spring-water morning and night; a Youth or Girl may take 7, 10, or 15 drops, more or less according to the Age. 'Tis so safe and innocent, it may be given to Infants. It usually cures the Itch in two Days. It also cures Childrens heads that are broke out, by bathing with it, and by giving it inwardly as is di<g ref="char:EOLhyphen"/>rected.</p>
+               <p>[<hi>Price</hi> 12 <hi>d.</hi> 18 <hi>d. or two shillings the Glass.</hi>]</p>
+            </div>
+            <trailer>At the Author's House may be had divers other sorts of Spirits accurately prepared.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT,</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>Since my Publishing these Remedies (which have been so highly approved by divers Eminent Physitians, as well as many other ingenious Persons, who have found them success<g ref="char:EOLhyphen"/>ful) I have not escaped the malicious Obloquies of some de<g ref="char:EOLhyphen"/>tracting</hi> Scritch-Owls, <hi>hovering about the</hi> Coffee-houses, <hi>and corners of the Streets: In Answer to which I shall only say; Let such Birds sing their own Note: Yet will every ho<g ref="char:EOLhyphen"/>nest impartial man, no otherwise praise, or dispraise a Bridge, but as it has carried him over, or failed him.</hi>
+            </p>
+            <pb facs="tcp:206203:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
